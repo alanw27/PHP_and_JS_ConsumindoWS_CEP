@@ -1,0 +1,25 @@
+#fichacentral{
+	width: 980px;
+	margin: 10px auto;
+}
+#cabecalho{
+	width: 100%;
+	margin: 10px auto;
+	
+}
+#fichainscrito
+{	
+	font: Arial;
+	border:1px #000 solid;
+}
+
+#fichainscrito tr td{	
+	border:1px #000 solid;
+}
+.titulotable{
+	background-color:#0081C8;
+	color:#fff;
+	padding: 10px 0 10px 10px;
+	font-size: 16px;
+	font-weight: bold;
+}
