@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row">
 
-                <center><h1>Consultar CEP's Cadastrados</h1></center>
+                <center><h1>Consulta CEP's Cadastrados</h1></center>
 
             </div>
    		    <div class="row">
