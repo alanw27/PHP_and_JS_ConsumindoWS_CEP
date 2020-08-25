@@ -1,0 +1,9 @@
+body{background: #FFF; color: #000; font: 12pt serif; }
+#imprimir{display: none;}
+#cabecalho{
+	width: 100%;
+	margin: 10px auto;	
+}
+#tabela_terreiros tr td{
+	padding:5px;
+}
