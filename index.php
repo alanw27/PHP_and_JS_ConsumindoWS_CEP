@@ -13,7 +13,11 @@
        
         <div class="container">
             <div class="row">
+<<<<<<< HEAD
                 <center><h1>Consultar CEP's Cadastrados</h1></center>
+=======
+                <center><h1>Consulta CEP's Cadastrados</h1></center>
+>>>>>>> 1ecc4bddd30868de099afc9d8e1f1235c8436c48
             </div>
    		    <div class="row">
                 <div id="tabela" class="col-lg-12">
